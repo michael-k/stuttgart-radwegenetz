@@ -45,6 +45,19 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Problem": "Kein Anforderungsknopf für die Grünphase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17709767818451,
+          48.74826621932676
+        ]
+      }
     }
   ]
 }
