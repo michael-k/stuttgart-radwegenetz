@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Problem": "kombinierter Rad- & Fußweg hat zu wenig Abstand zur Straße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.209203720092773,
+          48.747063581204344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Problem": "Rotphase an Ampel zu lang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.195524454116821,
+          48.753444308811915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Problem": "sehr viel Autoverkehr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.181437492370605,
+            48.74907621525275
+          ],
+          [
+            9.177151322364807,
+            48.74827329358353
+          ]
+        ]
+      }
+    }
+  ]
+}
