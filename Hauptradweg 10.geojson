@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Problem": "kombinierter Rad- & Fußweg hat zu wenig Abstand zur Straße",
-        "marker-symbol": "danger",
+        "marker-symbol": "danger"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "Problem": "Rotphase an Ampel zu lang",
-        "marker-color": "#ff0000",
+        "marker-color": "#ff0000"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,7 @@
       "properties": {
         "Problem": "sehr viel Autoverkehr",
         "marker-symbol": "car",
-        "stroke": "#ff0000",
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "LineString",
