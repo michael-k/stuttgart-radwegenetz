@@ -19,6 +19,7 @@
       "type": "Feature",
       "properties": {
         "Problem": "Rotphase an Ampel zu lang",
+        "marker-symbol": "car",
         "marker-color": "#ff0000"
       },
       "geometry": {
@@ -33,7 +34,6 @@
       "type": "Feature",
       "properties": {
         "Problem": "sehr viel Autoverkehr",
-        "marker-symbol": "car",
         "stroke": "#ff0000"
       },
       "geometry": {
